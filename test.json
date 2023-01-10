@@ -1,0 +1,13 @@
+{
+  "coords": {
+    "accuracy": 17.461999893188477,
+    "altitude": 26.399999618530273,
+    "altitudeAccuracy": 3.758692979812622,
+    "heading": 0,
+    "latitude": 10.8463314,
+    "longitude": 106.7745159,
+    "speed": 0
+  },
+  "mocked": false,
+  "timestamp": 1673268921852
+}
